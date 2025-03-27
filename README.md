@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning *The meaning of life*
 - 💞️ I’m looking to collaborate on *NA*
 - 📫 How to reach me *Don't*
-- ⚡ Fun fact: *existance*
+- ⚡ Fun fact: *existence*
 
 <!---
 Periodical-Forge/Periodical-Forge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
