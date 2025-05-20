@@ -1,21 +1,21 @@
-👋 Welcome to My GitHub!
+👋 **Welcome to My GitHub!**
 I'm N.P. Summers, a passionate coder, problem-solver, and co-founder of EuclideanLabs, a family-run 3D printing and CAD design business. I love tackling computational challenges, building innovative tools, and turning creative ideas into reality through technology and additive manufacturing.
 
-🚀 About Me
+🚀 **About Me**
 
-🖨️ Co-Founder of EuclideanLabs: Since late 2023, I've been driving innovation at EuclideanLabs, where my family and I transform concepts into high-quality 3D-printed products. From rapid prototyping to custom cosplay accessories, I specialize in CAD design and optimizing print workflows.
-💻 Developer: I enjoy coding in Python, VBA, and other languages to solve real-world problems, from filament cost calculators to mathematical puzzles.
+- 🖨️ **Co-Founder of EuclideanLabs**: Since late 2023, I've been driving innovation at EuclideanLabs, where my family and I transform concepts into high-quality 3D-printed products. From rapid prototyping to custom cosplay accessories, I specialize in CAD design and optimizing print workflows.
+- 💻 **Developer**: I enjoy coding in Python, VBA, and other languages to solve real-world problems, from filament cost calculators to mathematical puzzles.
 - 🧩 **Problem-Solver**: Proud member of Project Euler, where I tackle challenging mathematical and programming problems.
 
 ![Project Euler Badge](https://projecteuler.net/profile/NPSummers.png)
 
-📊 GitHub Activity
+📊 **GitHub Activity**
 I’m active on GitHub, contributing to projects that blend programming with 3D printing and computational creativity. Here’s a snapshot of my work:
 
 
-🔧 Repositories: Explore my projects, including tools for 3D printing optimization and computational solutions.
-🌟 Contributions: Regularly pushing code, fixing bugs, and collaborating on open-source ideas.
-📈 Current Focus: Building scripts for filament estimation and CAD automation.
+- 🔧 Repositories: Explore my projects, including tools for 3D printing optimization and computational solutions.
+- 🌟 Contributions: Regularly pushing code, fixing bugs, and collaborating on open-source ideas.
+- 📈 Current Focus: Building scripts for filament estimation and CAD automation.
 
 
 🖨️ EuclideanLabs: Innovating with 3D Printing
