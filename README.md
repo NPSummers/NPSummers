@@ -29,10 +29,9 @@ Check out our website to learn more or get a quote!
 
 📫 Get in Touch
 
-📧 Email: your.email@example.com
-🌐 Website: EuclideanLabs
-🐦 X: @YourTwitterHandle
-💼 LinkedIn: Your LinkedIn Profile
+- 📧 Email: euclideanlabs@yahoo.com
+- 🌐 Website: [EuclideanLabs](https://euclideanlabsllc.com/)
+
 
 Feel free to reach out for collaborations, 3D printing projects, or to discuss coding challenges!
 
