@@ -1,13 +1,15 @@
 👋 Welcome to My GitHub!
-I'm NPSummers, a passionate coder, problem-solver, and co-founder of EuclideanLabs, a family-run 3D printing and CAD design business. I love tackling computational challenges, building innovative tools, and turning creative ideas into reality through technology and additive manufacturing.
+I'm N.P. Summers, a passionate coder, problem-solver, and co-founder of EuclideanLabs, a family-run 3D printing and CAD design business. I love tackling computational challenges, building innovative tools, and turning creative ideas into reality through technology and additive manufacturing.
 
 🚀 About Me
 
 🖨️ Co-Founder of EuclideanLabs: Since late 2023, I've been driving innovation at EuclideanLabs, where my family and I transform concepts into high-quality 3D-printed products. From rapid prototyping to custom cosplay accessories, I specialize in CAD design and optimizing print workflows.
 💻 Developer: I enjoy coding in Python, VBA, and other languages to solve real-world problems, from filament cost calculators to mathematical puzzles.
-🧩 Problem-Solver: Proud member of Project Euler, where I tackle challenging mathematical and programming problems.
+- 🧩 **Problem-Solver**: Proud member of Project Euler, where I tackle challenging mathematical and programming problems.
 
+![Project Euler Badge](https://projecteuler.net/profile/NPSummers.png)
 
+![EuclideanLabs Logo](https://github.com/NPSummers/NPSummers/raw/main/images/EuclideanLabs.Logo.png)
 
 📊 GitHub Activity
 I’m active on GitHub, contributing to projects that blend programming with 3D printing and computational creativity. Here’s a snapshot of my work:
@@ -37,3 +39,6 @@ Check out our website to learn more or get a quote!
 Feel free to reach out for collaborations, 3D printing projects, or to discuss coding challenges!
 
 “Turning ideas into reality, one layer at a time.” 🖨️✨
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![CAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk)
