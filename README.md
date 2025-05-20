@@ -9,8 +9,6 @@ I'm N.P. Summers, a passionate coder, problem-solver, and co-founder of Euclidea
 
 ![Project Euler Badge](https://projecteuler.net/profile/NPSummers.png)
 
-![EuclideanLabs Logo](https://github.com/NPSummers/NPSummers/raw/main/EuclideanLabs.Logo.png)
-
 📊 GitHub Activity
 I’m active on GitHub, contributing to projects that blend programming with 3D printing and computational creativity. Here’s a snapshot of my work:
 
