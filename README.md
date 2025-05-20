@@ -1,4 +1,4 @@
-👋 **Welcome to My GitHub!**
+# 👋 **Welcome to My GitHub!**
 I'm N.P. Summers, a passionate coder, problem-solver, and co-founder of EuclideanLabs, a family-run 3D printing and CAD design business. I love tackling computational challenges, building innovative tools, and turning creative ideas into reality through technology and additive manufacturing.
 
 🚀 **About Me**
@@ -8,6 +8,8 @@ I'm N.P. Summers, a passionate coder, problem-solver, and co-founder of Euclidea
 - 🧩 **Problem-Solver**: Proud member of Project Euler, where I tackle challenging mathematical and programming problems.
 
 ![Project Euler Badge](https://projecteuler.net/profile/NPSummers.png)
+
+[![NPSummers's GitHub stats](https://github-readme-stats.vercel.app/api?username=NPSummers)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **GitHub Activity**
 I’m active on GitHub, contributing to projects that blend programming with 3D printing and computational creativity. Here’s a snapshot of my work:
