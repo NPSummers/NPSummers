@@ -1,44 +1,70 @@
-# 👋 **Welcome to My GitHub!**
-I'm N.P. Summers, a passionate coder, problem-solver, and co-founder of EuclideanLabs, a family-run 3D printing and CAD design business. I love tackling computational challenges, building innovative tools, and turning creative ideas into reality through technology and additive manufacturing.
+<h2 align="left">👋 Welcome to My GitHub!</h2>
 
-🚀 **About Me**
+###
 
-- 🖨️ **Co-Founder of EuclideanLabs**: Since late 2023, I've been driving innovation at EuclideanLabs, where my family and I transform concepts into high-quality 3D-printed products. From rapid prototyping to custom cosplay accessories, I specialize in CAD design and optimizing print workflows.
-- 💻 **Developer**: I enjoy coding in Python, VBA, and other languages to solve real-world problems, from filament cost calculators to mathematical puzzles.
-- 🧩 **Problem-Solver**: Proud member of Project Euler, where I tackle challenging mathematical and programming problems.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NPSummers.NPSummers&left_text=Views"  />
 
-![Project Euler Badge](https://projecteuler.net/profile/NPSummers.png)
+###
 
-[![NPSummers's GitHub stats](https://github-readme-stats.vercel.app/api?username=NPSummers)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NPSummers&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=NPSummers&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NPSummers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-📊 **GitHub Activity**
-I’m active on GitHub, contributing to projects that blend programming with 3D printing and computational creativity. Here’s a snapshot of my work:
+###
 
+<img align="right" height="150" src="https://i.postimg.cc/rF9RTxQN/sackboy-littlebigplanet.gif"  />
 
-- 🔧 Repositories: Explore my projects, including tools for 3D printing optimization and computational solutions.
-- 🌟 Contributions: Regularly pushing code, fixing bugs, and collaborating on open-source ideas.
-- 📈 Current Focus: Building scripts for filament estimation and CAD automation.
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="30" alt="ie10 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
 
-🖨️ EuclideanLabs: Innovating with 3D Printing
-As a co-founder of EuclideanLabs, I lead efforts in CAD design and process optimization. Our family-run business, started in a garage, now serves clients from hobbyists to small businesses. We specialize in:
+###
 
-Custom CAD modeling for prototypes and products.
-3D printing with materials like PLA, PETG, and TPU.
-Exploring new applications, like medical device prototyping and cosplay accessories.
+<div align="left">
+  <a href="https://x.com/tips_spy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1345857832888696864" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-Check out our website to learn more or get a quote!
+###
 
-📫 Get in Touch
+<img src="https://raw.githubusercontent.com/NPSummers/NPSummers/output/snake.svg" alt="Snake animation" />
 
-- 📧 Email: euclideanlabs@yahoo.com
-- 🌐 Website: [EuclideanLabs](https://euclideanlabsllc.com/)
-- 🌐 Portfolio: [Full Stack Dev](https://0x1000007e.pages.dev/)
-
-
-Feel free to reach out for collaborations, 3D printing projects, or to discuss coding challenges!
-
-“Turning ideas into reality, one layer at a time.” 🖨️✨
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![CAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk)
+###
