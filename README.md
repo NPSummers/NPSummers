@@ -33,6 +33,7 @@ Check out our website to learn more or get a quote!
 
 - 📧 Email: euclideanlabs@yahoo.com
 - 🌐 Website: [EuclideanLabs](https://euclideanlabsllc.com/)
+- 🌐 Portfolio: [Full Stack Dev](https://0x1000007e.pages.dev/)
 
 
 Feel free to reach out for collaborations, 3D printing projects, or to discuss coding challenges!
