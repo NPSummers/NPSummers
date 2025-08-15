@@ -49,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://github.com/NPSummers/NPSummers/blob/main/rulu.png?raw=true" height="30" alt="Rulu"  />
 </div>
 
 ###
