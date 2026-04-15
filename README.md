@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  ![My Stats](https://chlorophyll.chwrryon.top/stats/chwrryroll)
+  <img src="https://chlorophyll.chwrryon.top/stats/NPSummers"/>
 </div>
 
 ###
