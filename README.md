@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://chlorophyll.chwrryon.top/stats/NPSummers"/>
+  <img src="https://chlorophyll.aureal.dev/stats/NPSummers"/>
 </div>
 
 ###
