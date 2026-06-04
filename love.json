@@ -1,0 +1,14 @@
+{
+  "default": {
+    "redirect": "https://aureal.dev",
+    "wellKnown": {
+      "discord": "dh=d9a92c0e8225aade3271930eaef08259e310d824"
+    }
+  },
+  "aureal.lovesfemboys.online": {
+    "redirect": "https://aureal.dev"
+  },
+  "brook.lovesfemboys.online": {
+    "redirect": "https://aureal.dev"
+  }
+}
