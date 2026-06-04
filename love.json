@@ -8,7 +8,10 @@
   "aureal.lovesfemboys.online": {
     "redirect": "https://aureal.dev"
   },
-  "brook.lovesfemboys.online": {
-    "redirect": "https://aureal.dev"
-  }
+  "schuh.lovesfemboys.online": {
+    "redirect": "https://schuh.wtf",
+    "wellKnown": {
+      "discord": "dh=55a65d2bbccfc0f485b880e551e94e0d8bb7f66d"
+    }
+  },
 }
