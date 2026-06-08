@@ -49,9 +49,11 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="images/userstats.svg"/>
 </div>
+
 ###
 
 <picture>
