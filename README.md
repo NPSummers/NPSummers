@@ -49,9 +49,9 @@
 </div>
 
 ###
-
-![My user statistics](images/userstats.svg)
-
+<div align="center">
+  <img src="images/userstats.svg"/>
+</div>
 ###
 
 <picture>
