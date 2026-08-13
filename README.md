@@ -54,11 +54,13 @@
 </div>
 
 ###
+
 <div align="center">
   <a href="https://aureal.dev">
     <img src="https://aureal.dev/api/widget.svg" alt="aureal.dev live status" />
   </a>
 </div>
+
 ###
 
 <div>
