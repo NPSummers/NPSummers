@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="60" alt="discordjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -56,11 +54,11 @@
 </div>
 
 ###
-
-<a href="https://aureal.dev">
-  <img src="https://aureal.dev/api/widget.svg" alt="aureal.dev live status" />
-</a>
-
+<div align="center">
+  <a href="https://aureal.dev">
+    <img src="https://aureal.dev/api/widget.svg" alt="aureal.dev live status" />
+  </a>
+</div>
 ###
 
 <div>
