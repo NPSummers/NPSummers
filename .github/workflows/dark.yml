@@ -8,19 +8,41 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
-      
-    steps:
-    - uses: actions/checkout@v6
 
-    - name: Generate the user stats image
-      uses: cicirello/user-statistician@v1
-      with:
-        colors: dark
-        custom-title: My GitHub Statistics
-        hide-keys: mostStarred, mostForked, followers, following, private
-        max-languages: 100
-        animated-language-chart: true
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate repository stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/repos.svg
+          colors: dark
+          include-title: false
+          hide-keys: general, contributions, languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/contribs.svg
+          colors: dark
+          include-title: false
+          hide-keys: general, repositories, languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate language stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/languages.svg
+          colors: dark
+          include-title: false
+          hide-keys: general, repositories, contributions
+          max-languages: 100
+          animated-language-chart: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
