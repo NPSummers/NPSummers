@@ -25,9 +25,9 @@
 <br>
 
 <div align="center">
-  <img src="images/repos.svg" height="230" />
-  <img src="images/contribs.svg" height="230" />
-  <img src="images/languages.svg" height="230" />
+  <img src="images/repos.svg" width="32%" />
+  <img src="images/contribs.svg" width="32%" />
+  <img src="images/languages.svg" width="32%" />
 </div>
 
 <div align="center">
