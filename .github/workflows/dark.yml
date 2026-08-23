@@ -42,7 +42,7 @@ jobs:
           colors: dark
           include-title: false
           hide-keys: general, repositories, contributions
-          max-languages: 100
+          max-languages: 10
           animated-language-chart: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
