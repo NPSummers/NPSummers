@@ -6,7 +6,7 @@
   <img
     src="https://github.com/NPSummers/NPSummers/blob/main/logos/aureal.png?raw=true"
     alt="KawaiiLogo"
-    height="300"
+    height="250"
   />
 </div>
 
