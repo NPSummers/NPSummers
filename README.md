@@ -4,6 +4,13 @@
 
 <div align="center">
   <img
+    src="https://github.com/NPSummers/NPSummers/blob/main/logos/aureal.png?raw=true"
+    alt="KawaiiLogo"
+  />
+</div>
+
+<div align="center">
+  <img
     src="https://skillicons.dev/icons?i=nix,rust,python,zig,cpp,js,java,svelte,html,gradle,postgres&theme=dark&perline=11"
     alt="Tech Stack"
   />
